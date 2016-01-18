@@ -65,5 +65,12 @@ repository-> Final submission of files to git
 
 
 
+git add -> this command will add files from working directory to staging area
+git commit-> this will add files from staging area to repository with a short statement
+git status -> this will show the current status of the working directory and staging area 
+
+
+
+
 
 
