@@ -1,0 +1,69 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+there are two types of sign I found 
++ and - 
+ 
+- was used for old text of of that file
++ was used for replacement of the old text
+
+that's how it helps me to see the bug
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+In latest file we always put our currently solved problems. 
+
+But if we again fall into same problem in another program, we can't how did we make the solution
+
+Having easy access to the entire history of a file remind me my mistakes 
+
+and how did I make the solution
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+If I manually choose to commit, others may be thought I do too much commits or less commits because it depends on my judgement call.
+
+But it will be useful for me to understand my logical changes clearly.
+
+However, If versions are automatically saved then it may be save a version which I don't want to make version. It will be
+problematic for me and others to understand logical changes.
+
+
+Learn Point 1 :
+===============
+Git is the main source
+
+-> In git there are repositories
+-> Repository is the part of git
+
+-> Staging area part of git
+-> add operates on staging area
+
+-> Clone operates on repository
+-> init operates on repository
+
+-> Commit is the part of repository
+-> diff and log operates on commit
+
+-> working directory is the offline space where we work
+-> status operates on working and staging area
+
+Git checkout -> Git checkout is restoring file in previous version. To any commit we made before. It is useful when we 
+face a bug and want to know from which commit it was made.
+
+Learn point 2:
+==============
+
+There are three directories
+
+working directory -> where we work offline
+staging directory-> where we add files before commiting them
+repository-> Final submission of files to git
+
+
+
+
+
+
+
