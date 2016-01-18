@@ -49,6 +49,7 @@ Git is the main source
 -> working directory is the offline space where we work
 -> status operates on working and staging area
 
+
 Git checkout -> Git checkout is restoring file in previous version. To any commit we made before. It is useful when we 
 face a bug and want to know from which commit it was made.
 
@@ -60,7 +61,6 @@ There are three directories
 working directory -> where we work offline
 staging directory-> where we add files before commiting them
 repository-> Final submission of files to git
-
 
 
 
