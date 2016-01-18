@@ -75,6 +75,9 @@ git diff -> used to find difference in one or multiple files from working direct
 
 git diff --staged -> used to find difference between one or multiple files from staging area to repository.(file or files must be commited before)
 
+git diff id1 id2-> used for find difference between two commits in a repository 
 
 If you want to see diff or diff --staged don't add or commit after modifing the file
+
+
 
