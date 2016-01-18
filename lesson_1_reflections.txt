@@ -71,9 +71,9 @@ git status -> this will show the current status of the working directory and sta
 
 
 
-git diff -> used to find difference in one or multiple files from working directory to staging area.(file or files must be added before)
+git diff -> used to find difference between working directory to staging area.(file or files must be added before)
 
-git diff --staged -> used to find difference between one or multiple files from staging area to repository.(file or files must be commited before)
+git diff --staged -> used to find difference between one or multiple files from staging area to latest commit.
 
 git diff id1 id2-> used for find difference between two commits in a repository 
 
