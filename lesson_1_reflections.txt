@@ -80,4 +80,13 @@ git diff id1 id2-> used for find difference between two commits in a repository
 If you want to see diff or diff --staged don't add or commit after modifing the file
 
 
+Git mainly works in 'master' branch. But if anyone want to test something they can make a branch and checkout that branch to test their codes. It will not make any effect to the master branch.
+
+git branch -> used to check in which branch currently we are in
+git branch branch-name -> used to make a new branch
+git checkout branch-name -> used to work in that branch
+
+
+
+
 
