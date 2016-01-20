@@ -98,6 +98,8 @@ To add local repository to cloud github
 -> "git push remote-name branch-name" used to upload repository to the cloud.
 
 
+"git pull remote-name branch-name" use to download repository from cloud to local
+
 
 
 
