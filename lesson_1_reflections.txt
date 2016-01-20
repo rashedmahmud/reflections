@@ -87,6 +87,18 @@ git branch branch-name -> used to make a new branch
 git checkout branch-name -> used to work in that branch
 
 
+To add local repository to cloud github
+
+-> Make an empty repository on github
+-> In terminal go to the local repository you want to push
+-> Check there is any remote existed or not by command "git remote"
+-> It will be empty if there is no remote
+-> Now add remote which will be used to pull and push "git remote add remote-name link-of-the-repo"
+-> "git remote -v" used to check the link and remote name used to fetch and push
+-> "git push remote-name branch-name" used to upload repository to the cloud.
+
+
+
 
 
 
